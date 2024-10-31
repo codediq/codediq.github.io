@@ -1,0 +1,45 @@
+/* dark.css */
+body {
+    background-color: black;
+    color: white;
+}
+#topGrey {
+    border: transparent;
+    margin-top: 36px;
+    max-width: 100%;
+    height: auto;
+}
+#moonIcon {
+    visibility: hidden;
+}
+#sunIcon {
+    color: yellow;
+}
+#topGreyBottom {
+    border: transparent;
+    margin-top: -120px;
+    padding: 0;
+    width: 100%;
+}
+#greySection {
+    margin-top: -50px;
+}
+
+#contact {
+    background-color: #272621;
+    margin-top: 0;
+}
+.contact-div {
+    background-color: #272621;
+}
+.section3,
+.important-things,
+.Pricing,
+.prizes {
+    background-color: #272621;
+    color: white;
+}
+.countdown {
+    color: white;
+
+}

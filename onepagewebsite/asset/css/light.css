@@ -1,0 +1,21 @@
+/* Light.CSS */
+body {
+    background-color: white;
+    color: black;
+}
+#topGrey {
+    border: transparent;
+    margin-top: 36px;
+}
+#topGreyBottom {
+    background-color: transparent;
+    margin-top: -70px;
+    padding: 0px;
+}
+#moonIcon {
+    color: wheat;
+}
+#sunIcon {
+    color: yellow;
+    visibility: hidden;
+}
